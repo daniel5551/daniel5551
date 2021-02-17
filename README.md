@@ -2,7 +2,7 @@
 
 ### My name is Daniil Afanasev, I young junior programmer, and I learn Python,and C#!
 
-### I have plans to learn Assembler and C!
+### I have plans to learn Assembly and C!
 ### I From Ukraine, and use Microsoft Windows and Linux as my main OC!
 
 ### Facts about me:
