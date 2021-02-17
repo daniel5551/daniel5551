@@ -14,3 +14,6 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel5551&hide=css,html,Makefile&langs_count=8&layout=compact&bg_color=" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=daniel5551&show_icons=true&line_height=20&card_width=0" />
+</div>
