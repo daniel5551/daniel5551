@@ -7,9 +7,9 @@
 
 ### Facts about me:
 ### >
-### - I love History!
-### - I learn Hungarian(Magyar)
-### - I learn to play guitar(My guitar - Cort AD810)
+### - 🗽I love History!
+### - 🇭🇺I learn Hungarian(Magyar)
+### - 🎸I learn to play guitar(My guitar - Cort AD810)
 ### <
 
 <div align="center">
