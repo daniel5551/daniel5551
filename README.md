@@ -10,7 +10,6 @@
 ### - 🗽I love History!
 ### - 🇭🇺I learn Hungarian(Magyar)
 ### - 🎸I learn to play guitar(My guitar - Cort AD810)
-### - Temmy - my love.
 ### <
 
 <div align="center">
