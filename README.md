@@ -2,7 +2,7 @@
 
 > This gonna just feel so good!
 
-I'm a self-taught programmer, that currently working with Lua, Python, C, HTML, CSS, Pascal, and C. I think, it's all, what I need to feel yourself comfy, I also like to combine this langauges. **\\(^v^)/**
+I'm a self-taught programmer, that currently working with Lua, Python, HTML, CSS, Pascal, and C. I think, it's all, what I need to feel yourself comfy, I also like to combine this langauges. **\\(^v^)/**
 
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning Python
