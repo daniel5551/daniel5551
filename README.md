@@ -2,10 +2,10 @@
 
 > This gonna just feel so good!
 
-I'm a self-taught programmer, that currently working with Lua, Python, C, HTML, CSS and JavaScript. I think, it's all, what I need to feel yourself comfy, I also like to combine this langauges. **\\(^v^)/**
+I'm a self-taught programmer, that currently working with Lua, Python, C, HTML, CSS, Pascal, and C. I think, it's all, what I need to feel yourself comfy, I also like to combine this langauges. **\\(^v^)/**
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 🎶 I also play guitar and learn musical theory
 - 💬 Ask me about anything
 - ⚡ Fun fact: I'm a big music lover
