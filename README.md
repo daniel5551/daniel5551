@@ -2,7 +2,9 @@
 
 > This gonna just feel so good!
 
-I'm a self-taught programmer, that currently working with Python, HTML, CSS, Pascal, Lua, and Java. I think, it's all, what I need to feel yourself comfy! **\\(^v^)/**
+I'm a self-taught programmer, that currently working on my personal blog.
+
+I'm working with Python, HTML, CSS, Java, Pascal and PHP, I think, it's all, what I need to feel yourself comfy! **\\(^v^)/**
 
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning Java
